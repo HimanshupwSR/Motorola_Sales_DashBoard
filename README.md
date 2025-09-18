@@ -1,2 +1,6 @@
-# Motorola_Sales_DashBoard
-This project presents a Motorola Sales Dashboard built in Power BI to analyze mobile sales performance across different brands, models, cities, and customers. The dashboard provides a holistic view of sales KPIs such as total revenue, transactions, quantities sold, customer ratings, payment methods, and sales distribution by geography and day
+# 📱 Motorola Sales Dashboard (Interactive DashBoard using PowerBI)
+
+## 📌 Objective
+The purpose of this dashboard is to **analyze mobile sales performance** across cities, brands, models, and customer behavior.  
+It helps business stakeholders monitor **sales trends, revenue contribution, payment methods, and customer satisfaction ratings**.  
+This enables **data-driven decision-making** for product strategy, marketing, and sales growth. 
