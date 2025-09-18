@@ -7,3 +7,17 @@ This enables **data-driven decision-making** for product strategy, marketing, an
 
 ## Dataset
  - <a href="https://github.com/HimanshupwSR/Motorola_Sales_DashBoard/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a>
+
+## ❓ KPI Questions
+
+  - What is the total sales, transactions, and quantity sold this month?
+  - Which mobile brand and model generated the highest revenue?
+  - Which cities contributed the most to overall sales?
+  - What is the average sales value per transaction?
+  - What is the customer satisfaction trend based on ratings?
+  - Which days of the week drive the highest sales?
+  - What is the distribution of payment methods used by customers?
+  - DashBoard Interaction <a href ="https://github.com/HimanshupwSR/Motorola_Sales_DashBoard/blob/main/Motorola.png">View DashBoard<a/>
+
+  ## 📷 Dashboard Preview
+   <img width="1372" height="765" alt="Motorola" src="https://github.com/user-attachments/assets/3853dd2e-0135-4e73-9a30-0e165bf0ba09" />
